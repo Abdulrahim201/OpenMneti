@@ -149,7 +149,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 Initial Phase
-- [ ] Django initial project
+- [ x ] Django initial project
 - [ ] Changelog
 - [ ] Versioning
 - [ ] Packaging
