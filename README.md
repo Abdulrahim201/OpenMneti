@@ -155,7 +155,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 Initial Phase
-- [ ] Add Django initial project
+- [ x ] Add Django initial project
 - [ ] Add Changelog
 - [ ] Add versioning
 - [ ] Package the application
