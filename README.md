@@ -149,6 +149,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 Initial Phase
+- [ x ] Add Django initial project
+- [ ] Add Changelog
+- [ ] Add versioning
+- [ ] Package the application
+- [ ] Add project documentation using MkDocs
+- [ ] Add docker support
 - [ ] Django initial project
 - [ ] Changelog
 - [ ] Versioning
