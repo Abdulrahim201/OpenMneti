@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "django-open-mneti"
+version = "0.1.0"
+description = "Open Mneti - an open source Django project."
+readme = { file = "README.md", content-type = "text/markdown" }
+license = "Apache-2.0"
+requires-python = ">=3.10"
+authors = [
+    {name = "Abdulrahim Shaffy", email = "abdulrahimshaffy201@gmail.com"},
+    {name = "Moses Odalo", email = "mosesodalokoyo@gmail.com"}
+]
+dependencies = [
+    "django>=6.0",
+    "asgiref>=3.11",
+    "sqlparse>=0.5",
+    "tzdata>=2026.2",
+]
+classifiers = [
+    "Environment :: Web Environment",
+    "Framework :: Django",
+    "Framework :: Django :: 6.0",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Topic :: Internet :: WWW/HTTP",
+]
+
+[project.urls]
+Homepage = "https://github.com/Abdulrahim201/OpenMneti"
